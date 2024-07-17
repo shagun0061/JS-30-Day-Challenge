@@ -7,3 +7,5 @@
 ## Day3 --> Controle Structures.
 
 ## Day4 --> Loops.
+
+## Day4 --> Functions.
