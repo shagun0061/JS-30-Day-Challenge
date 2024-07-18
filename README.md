@@ -9,3 +9,5 @@
 ## Day4 --> Loops.
 
 ## Day4 --> Functions.
+
+## Day4 --> Array.
