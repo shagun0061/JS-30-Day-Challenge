@@ -8,6 +8,6 @@
 
 ## Day4 --> Loops.
 
-## Day4 --> Functions.
+## Day5--> Functions.
 
-## Day4 --> Array.
+## Day6 --> Array.
