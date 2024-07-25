@@ -11,3 +11,5 @@
 ## Day5--> Functions.
 
 ## Day6 --> Array.
+
+## Day6 --> Objects.
