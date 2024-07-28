@@ -12,4 +12,6 @@
 
 ## Day6 --> Array.
 
-## Day6 --> Objects.
+## Day7 --> Objects.
+
+## Day8 --> ES6+ features.
